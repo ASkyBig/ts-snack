@@ -10,5 +10,5 @@ npm run start
 ```
 
 ## preview
-<img src="https://askybig.github.io/ImageStore/snack.png" width="200" height="200" alt=""/><br/
+<img src="https://askybig.github.io/ImageStore/snack.png" width="200" height="200" alt=""/>
 
